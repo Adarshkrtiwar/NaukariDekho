@@ -1,0 +1,7 @@
+{
+  "/career-resources/page": "app/career-resources/page.js",
+  "/post-job/page": "app/post-job/page.js",
+  "/browse-candidates/page": "app/browse-candidates/page.js",
+  "/recruitment-solutions/page": "app/recruitment-solutions/page.js",
+  "/page": "app/page.js"
+}
